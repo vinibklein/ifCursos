@@ -16,6 +16,6 @@ npm start
 ```
 
 ```
-Obs.: aproveite para estudar markdown:
-https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md    
+[Obs.: aproveite para estudar markdown:]
+(https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
 ```
